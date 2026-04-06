@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    margin-top: 30px;
+}
+
+article {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    margin: 30px auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+footer {
+    margin-top: 20px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
